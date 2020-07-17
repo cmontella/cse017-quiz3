@@ -1,5 +1,7 @@
 # CSE017 - Quiz 3
 
+Remember, make at least 1 commit per question. Minimum of 4 commits for this assignment. You may commit directly to this file for your answers.
+
 ## Question 1 
 
 Write down a UML model for a doubly linked list node. You don't have to implement this in Java.
