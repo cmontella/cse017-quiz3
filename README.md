@@ -11,7 +11,7 @@ Write down a UML model for a doubly linked list node. You don't have to implemen
 Convert the following function from to an equivalent recursive form:
 
 ```java
-int sum(ArrayList<int> list) {
+int sum(int[] list) {
   int current_sum = 0;
   for (int i = 0; i < list.length; i++) {
     current_sum += list[i];
@@ -25,7 +25,7 @@ int sum(ArrayList<int> list) {
 Convert the following function from to an equivalent recursive form:
 
 ```java
-int max(ArrayList<int> list) {
+int max(int[] list) {
   int current_max = 0;
   for (int i = 0; i < list.length; i++) {
     if (list[i] > current_max) {
